@@ -1,0 +1,33 @@
+Tech Conference 2025
+May 30, 2025
+
+Schedule
+
+9:00 AM - 10:00 AM   Registration and Breakfast
+Location: Grand Ballroom Foyer
+
+10:00 AM - 11:00 AM   Opening Keynote: The Future of Technology
+Speaker: Dr. Jane Smith
+Location: Grand Ballroom A
+
+11:15 AM - 12:15 PM   Breakout Sessions
+- AI and Machine Learning (Room 101)
+  Speaker: John Doe
+- Cloud Computing (Room 102)
+  Speaker: Alice Johnson
+
+12:15 PM - 1:15 PM   Lunch Break
+Location: Garden Terrace
+
+1:30 PM - 2:30 PM   Workshop: Hands-on with Python
+Speaker: Robert Taylor
+Location: Computer Lab 1
+
+2:45 PM - 3:45 PM   Panel Discussion: Tech Trends 2025
+Moderator: Sarah Williams
+Panelists: Michael Brown, Emily Davis, David Wilson
+Location: Grand Ballroom B
+
+4:00 PM - 5:00 PM   Closing Remarks
+Speaker: Dr. Jane Smith
+Location: Grand Ballroom A
